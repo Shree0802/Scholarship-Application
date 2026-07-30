@@ -10,6 +10,8 @@
 
 An intelligent, event-driven automation workflow engineered using **n8n** that streamlines scholarship tracking and reminder management for educational institutions. The system automatically fetches student application data from Google Sheets, evaluates eligibility and application status, dynamically generates personalized email reminders, and dispatches them via Gmail—eliminating manual follow-up inefficiencies.
 
+![WhatsApp Image 2026-01-16 at 2 02 13 PM](https://github.com/user-attachments/assets/f7ad7255-00e5-4d8c-b5f1-dfbb34032363)
+
 ---
 
 ## 📌 Problem Statement
